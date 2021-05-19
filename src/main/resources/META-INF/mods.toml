@@ -1,0 +1,22 @@
+modLoader="javafml"
+loaderVersion="[35,)"
+license="All rights reserved"
+[[mods]]
+modId="lousiesutilities"
+version="${file.jarVersion}"
+displayName="LousiesUtilities"
+credits="OneLousyGamer"
+authors="OneLousyGamer"
+description='''A mod with a bunch of useul utilities.'''
+[[dependencies.lousiesutilities]]
+    modId="forge"
+    mandatory=true
+    versionRange="[36,)"
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.lousiesutilities]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.16.5,1.17)"
+    ordering="NONE"
+    side="BOTH"
