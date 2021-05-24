@@ -5,6 +5,7 @@
     "1.16.5-recommended": "1.0.3"
   },
   "1.16": {
-    "1.0.0": "*Added update checker lol\n"
+    "1.0.3": "*Added update checker lol\n",
+    "1.0.4": "*Started work on padlock item, allows for lockable blocks\n"
   }
 }

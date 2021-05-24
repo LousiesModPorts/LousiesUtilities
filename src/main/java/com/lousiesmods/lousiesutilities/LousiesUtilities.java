@@ -12,9 +12,10 @@ import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
 @Mod(Reference.MOD_ID)
+@Mod.EventBusSubscriber
 public class LousiesUtilities
 {
-    public static Logger LOGGER = LogManager.getLogger();
+    public static final Logger LOGGER = LogManager.getLogger();
 
     public LousiesUtilities()
     {
