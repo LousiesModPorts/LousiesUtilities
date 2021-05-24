@@ -3,7 +3,7 @@ loaderVersion="[35,)"
 license="All rights reserved"
 [[mods]]
 modId="lousiesutilities"
-version="${file.jarVersion}"
+version="1.16-0.0.3"
 displayName="LousiesUtilities"
 credits="OneLousyGamer"
 authors="OneLousyGamer"

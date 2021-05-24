@@ -1,6 +1,5 @@
 package com.lousiesmods.lousiesutilities.util;
 
-import com.lousiesmods.lousiesutilities.handler.registry.BlockRegistry;
 import com.lousiesmods.lousiesutilities.handler.registry.ItemRegistry;
 
 import net.minecraft.item.ItemGroup;
@@ -18,4 +17,6 @@ public class Reference
             return new ItemStack(ItemRegistry.WRENCH.get());
         }
     };
+
+    public static final String VERSION = "1.16-0.0.3";
 }
